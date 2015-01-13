@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<h1 id="heading" align="center">Spartacus Workout</h1>
+		<h2 id="headTime" align="center">Click Start to begin Workout </h2>
+	</head>
+	<body id="body" align="center">
+		<button id="startBtn"> Start </button><br>
+		<img id="theimage">
+		<p id="description"></p>
+		<script src = "assignment5final.js">
+		</script>
+	</body>
+</html>
